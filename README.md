@@ -23,7 +23,7 @@ PixelExperience ~ Revived
 ```
 <br>
 
-> ### :hundred: Credits
+> ### 💯 Credits
 
 <div>
 
