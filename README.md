@@ -9,7 +9,7 @@ PixelExperience ~ Revived
 </h1>
 
 <div style="text-align: center;">
-    <img src="https://files.catbox.moe/xg8esp.png" align="center>
+    <img src="https://files.catbox.moe/5mgr9s.gif" />
 
 
 <h4 align="center">
